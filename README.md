@@ -5,6 +5,8 @@ Linux commands-Shell scripting
 
 # AIM:
 To practice Linux Commands and Shell Scripting
+# NAME: Madhavan K
+# REG: 212224220054
 
 # DESIGN STEPS:
 
